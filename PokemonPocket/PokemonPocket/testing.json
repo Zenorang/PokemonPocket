@@ -1,0 +1,49 @@
+{
+  "Username": "testing",
+  "MaxPokemonCount": 8,
+  "PocketUpgradeCost": 500,
+  "PokemonCatchChance": 50,
+  "CatchChancePurchaseCount": 0,
+  "RebirthCount": 0,
+  "MaxRebirthCount": 3,
+  "HasAddedStarter": true,
+  "PokemonCollection": [
+    {
+      "MaxHP": 100,
+      "Name": "Charmander",
+      "NoToEvolve": 1,
+      "EvolveTo": "Charmeleon",
+      "HP": 100,
+      "Experience": 1000,
+      "SkillName": "Solar Power",
+      "SkillDamage": 10,
+      "Rarity": "uncommon",
+      "Level": 1
+    },
+    {
+      "MaxHP": 100,
+      "Name": "Raichu",
+      "NoToEvolve": 0,
+      "EvolveTo": "",
+      "HP": 100,
+      "Experience": 0,
+      "SkillName": "Thunder Strike",
+      "SkillDamage": 30,
+      "Rarity": "rare",
+      "Level": 1
+    },
+    {
+      "MaxHP": 30,
+      "Name": "Rattata",
+      "NoToEvolve": 3,
+      "EvolveTo": "Raticate",
+      "HP": 30,
+      "Experience": 0,
+      "SkillName": "Bite",
+      "SkillDamage": 15,
+      "Rarity": "common",
+      "Level": 1
+    }
+  ],
+  "ShardCount": 900
+}

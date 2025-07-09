@@ -1,0 +1,12 @@
+{
+  "Username": "Test",
+  "MaxPokemonCount": 8,
+  "PocketUpgradeCost": 500,
+  "PokemonCatchChance": 50,
+  "CatchChancePurchaseCount": 0,
+  "RebirthCount": 1,
+  "MaxRebirthCount": 3,
+  "HasAddedStarter": false,
+  "PokemonCollection": [],
+  "ShardCount": 1000
+}
